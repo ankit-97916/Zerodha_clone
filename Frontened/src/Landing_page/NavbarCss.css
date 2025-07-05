@@ -1,0 +1,25 @@
+/* .Nabvar {
+    display: flex;
+    height: 5rem;
+    align-items: center;
+    border-bottom:1px solid #c1b8b8 ;
+    background-color: white;
+} */
+
+/* .navLinks{
+    display: flex !important;
+    justify-content: space-between;
+} */
+.navLinks  li {
+    font-size: 1.1rem !important;
+    margin-left: 1.5rem;
+    font-weight: 500;
+}
+.navLinks  li a:hover {
+    color: #387ed1 !important;
+}
+
+/* .NavbarImg img{
+    width: 25%;
+} */
+

@@ -1,0 +1,45 @@
+/* Pricing Section */
+.Pricing-Images{
+    display: flex;
+    gap: 5px;
+}
+.ImagesPrice{
+    display: flex;
+}
+
+.ImagesPrice img{
+   width: 70%;
+   height: 40%;
+   object-fit: contain;
+}
+
+.ImagesPrice p{
+    font-size: 10px;
+    /* color: grey; */
+    text-align: left;
+    margin-top: 2rem;
+}
+
+.PricingContainer{
+    margin-top: 8rem !important;
+}
+
+/* EducationSection */
+
+.EducationSection{
+    margin-top: 7rem;
+}
+
+/* .VarsityImg{
+    object-fit: contain;
+    height: 50%;
+    width: 50%;
+} */
+
+.VarsityImg img{
+    object-fit: contain;
+    width: 100%;
+}
+
+/* accoutn oper section component */
+

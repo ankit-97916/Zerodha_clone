@@ -1,0 +1,57 @@
+
+.form input {
+    width: 70% !important;
+    padding: 0.7rem !important;
+    font-size: 1.3rem;
+    border: none;
+}
+
+.form input:focus{
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
+
+.form label{
+    padding: 1rem;
+    border-right: 1px solid grey;
+}
+
+.form {
+    margin-left: 5rem !important;
+    border: 1px solid grey;
+    width: 80% !important;
+    border-radius: 10px !important;
+}
+
+.investmentsOptions{
+    display: flex;
+    text-align: start;
+    gap: 1rem;
+}
+
+.img{
+    width: 80%;
+}
+
+.border{
+    padding: 2rem !important;
+    height: 150px !important;
+    margin: 1rem !important;
+    width: 30% !important;
+    text-align: start !important;
+    border-radius: 5px !important;
+}
+
+.border p{
+    margin-top: 1rem !important;
+    font-size: 1.2rem;
+    color: grey;
+}
+
+.border:hover{
+    border: 1px solid skyblue !important;
+}
+.cardHeading {
+    margin-top: 5rem !important;
+}

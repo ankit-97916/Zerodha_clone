@@ -1,0 +1,83 @@
+.supportForm form input {
+    width: 87%;
+    padding: 1rem 1.5rem;
+    border: none;
+  font-size: 1.2rem;
+
+}
+
+.supportForm form button{
+    padding: 1rem 1.5rem;
+    border: none;
+    color: grey;
+    font-size: 1.21rem;
+    background-color: #fff;
+
+}
+
+.supportForm {
+    border: 1px solid #fff;
+    
+}
+
+.supportForm form input:focus{
+    border: none;
+    outline: none;
+}
+
+.container-fluid{
+    background-color: #387ed1;
+}
+
+
+.supportLinks p  {
+    display: inline;
+}
+
+.supportLinks p a  {
+    margin: 0.5rem;
+    font-size: 1rem;
+    color : white
+
+}
+.headRow h3 {
+    color: white;
+}
+.headRow p a {
+    color: white;
+}
+.leftCol h3 {
+        color: white;
+
+}
+.rightCol h3 {
+    color: white;
+}
+
+.rightCol ol li a {
+    color: white;
+}
+.rightCol ol li{
+color: #fff;
+}
+
+
+/* tickte create Section */
+
+.createTicketSecUl .li a
+{
+    color: #387ed1;
+    text-align: start;
+    text-decoration: none;
+}
+
+.createTicketSecUl .li a:hover{
+    color: grey;
+}
+.createTicketSecUl .li{
+    list-style: none;
+}
+.createTicketRow h4{
+    color: grey !important;
+    margin-left: 2rem;
+}

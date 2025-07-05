@@ -1,0 +1,42 @@
+.AboutHero{
+    margin-top: 5rem !important;
+    margin-bottom:  5rem!important;
+    padding-bottom: 7rem;
+    border-bottom: 1px solid grey;
+}
+
+.AboutHero h1{
+    line-height: 3rem !important;
+
+}
+
+.textArea p {
+    text-align: start;
+    line-height: 2rem;
+    width: 90%;
+}
+
+/* team section */
+.teamSec{
+    margin-top: 7rem;
+    width: 60%;
+}
+
+.ceoimg img {
+    width: 90%;
+    border-radius: 50%;
+
+}
+
+.teamImg{
+}
+
+.teamImg img {
+    width: 50%;
+    margin-bottom: 2rem;
+    border-radius: 50%;
+}
+
+.teamMembers {
+    margin-top: 7rem;
+}
